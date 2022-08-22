@@ -15,7 +15,7 @@ const Name = () => {
                 </p>
                 <div className='button-name-basketball'>
                     <div className='btn-name-basketball'>
-                        <p>View
+                        <p>Viewww
                             <img src={Line} alt="" /></p> 
                     </div>
                 </div>
