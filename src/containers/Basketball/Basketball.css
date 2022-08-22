@@ -1,0 +1,121 @@
+.container-basketball {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.container-block-basketball {
+    width: 100%;
+	display: flex;
+	justify-content: space-around;
+    flex-direction: column;
+	align-items: center;
+}
+.content-block-basketball {
+    display: flex;
+    width: 86%;
+    margin-top: 30px;
+    border-bottom: 3px solid #000;
+}
+.content-block-basketball p {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.title-block-start-basketball {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.title-block-start-basketball {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #FB0223;
+}
+.title-block-end-basketball {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.title-block-end-basketball {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000;
+}
+.text-content-block-basketball {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.text-content-block-basketball p {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #000;
+}
+.basketball-year {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.content-year {
+    display: flex;
+    align-items: center;
+    gap: 11%;
+}
+.color-year {color: #FB0223; margin: 0;}
+.content-year span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    margin: 0;
+    color: #000000;
+}
+.btn-block-basketball p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.btn-block-basketball {
+    display: flex;
+    cursor: pointer;
+}
+.btn-block-basketball img {
+    margin-left: 10px;
+}
+.button-block-basketball {
+    display: flex;
+    width: 86%;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+.content-range {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+
+}
+.img-btn-line {
+    margin-left: 100px;
+}
+

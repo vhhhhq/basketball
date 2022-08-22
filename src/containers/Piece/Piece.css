@@ -1,0 +1,95 @@
+.container-piece {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.container-block-piece {
+    width: 100%;
+	display: flex;
+	justify-content: space-around;
+    flex-direction: column;
+	align-items: center;
+}
+.content-block-piece {
+    display: flex;
+    width: 86%;
+    margin-top: 30px;
+    border-bottom: 3px solid #000;
+}
+.content-block-piece p {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.title-block-start-piece {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.title-block-start-piece {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000;
+}
+.title-block-start-piece span {color: #0949EF;}
+.title-block-end-piece {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.title-block-end-piece {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000;
+}
+.title-block-end-piece span {color: #FB0223;}
+.text-content-block-piece {
+    display: flex;
+    width: 86%;
+}
+.text-content-block-piece p {
+    width: 25%;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #000;
+}
+
+.btn-block-piece p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.btn-block-piece {
+    display: flex;
+    cursor: pointer;
+}
+.btn-block-piece img {
+    margin-left: 10px;
+}
+.button-block-piece {
+    display: flex;
+    width: 86%;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}

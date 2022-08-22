@@ -1,0 +1,20 @@
+.body-range {
+    align-items: center;
+    text-align: center;
+    place-items: center;
+    width: 100%;
+    margin: 30px;
+}
+.range .field {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slider {
+    width: 86%;
+    height: 3px;
+    opacity: 0.2;
+    background-color: #FB0223;
+}
+

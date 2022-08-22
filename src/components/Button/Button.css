@@ -1,0 +1,15 @@
+.btn-block p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #fff;
+}
+.btn-block {
+    display: flex;
+    cursor: pointer;
+}
+.btn-block img {
+    margin-left: 10px;
+}

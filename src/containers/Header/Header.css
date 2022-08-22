@@ -1,0 +1,27 @@
+.header {
+	width: 100%;
+	height: 15vh;
+	display: flex;
+	align-items: center;
+}
+.header-container {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.txt-header {
+	text-decoration: none;
+	margin: 0 40px;
+	
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	text-transform: uppercase;
+	color: #000000;
+}
+.header-items {
+	margin-left: 35px;
+}

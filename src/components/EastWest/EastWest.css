@@ -1,0 +1,33 @@
+.container-east-west {
+    display: flex;
+    width: 86%;
+    justify-content: space-between;
+    gap: 40px;
+}
+.east {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 41px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 3px solid #0949EF;
+    color: #000000;
+}
+.west {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 41px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 3px solid #FB0223;
+    color: #000000;
+}
+.img-eastWest {
+    width: 20%;
+    padding: 10px;
+}
+

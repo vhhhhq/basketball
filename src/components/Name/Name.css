@@ -1,0 +1,62 @@
+.name-basketball {
+    display: flex;
+    width: 100%;
+    border-bottom: 3px solid #000;
+}
+.name {
+    width: 86%;
+}
+.name-txt {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-name-basketball p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.btn-name-basketball {
+    display: flex;
+    cursor: pointer;
+}
+.btn-name-basketball img {
+    margin-left: 10px;
+}
+.name-jordan {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    color: #FB0223;
+}
+.name-txt span {color: #000;}
+.name-robinson {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    color: #C5C5C5;
+}
+.name-stockton {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    color: #094E10;
+}
+.button-name-basketball {
+    align-items: center;
+    margin: 20px 0;
+}

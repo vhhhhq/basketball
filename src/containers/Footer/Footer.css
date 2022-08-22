@@ -1,0 +1,121 @@
+.container-footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.container-block-footer {
+    width: 100%;
+	display: flex;
+	justify-content: space-around;
+    flex-direction: column;
+	align-items: center;
+}
+.content-block-footer {
+    display: flex;
+    width: 86%;
+    margin-top: 30px;
+    border-bottom: 3px solid #000;
+}
+.content-block-footer p {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.title-block-start-footer {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.title-block-start-footer {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #77D131;
+}
+
+.title-block-end-footer {
+    display: flex;
+    width: 86%;
+    border-bottom: 3px solid #000;
+}
+.title-block-end-footer{
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.text-content-block-footer {
+    display: flex;
+    width: 86%;
+}
+.text-content-block-footer p {
+    width: 55%;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #000;
+}
+
+.footer-pict {
+    display: flex;
+    width: 86%;
+    flex-direction: column;
+}
+.footer-pict span {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #000000;
+    margin-top: 30px;
+}
+.footer-pict p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #000000;
+
+    opacity: 0.5;
+}
+
+.btn-block-footer p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.btn-block-footer {
+    display: flex;
+    cursor: pointer;
+}
+.btn-block-footer img {
+    margin-left: 10px;
+}
+.button-block-footer {
+    display: flex;
+    width: 86%;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
