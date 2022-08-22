@@ -11,7 +11,7 @@ const Name = () => {
             <div className='name-txt'>
                 <p className='name-jordan'>
                     Michael 
-                    <span> jordan</span>
+                    <span> jordan!</span>
                 </p>
                 <div className='button-name-basketball'>
                     <div className='btn-name-basketball'>
